@@ -1,5 +1,4 @@
 import { g, auth, config } from "@grafbase/sdk";
-import { rule } from "postcss";
 
 // @ts-ignore
 const User = g
